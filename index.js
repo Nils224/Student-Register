@@ -3,6 +3,7 @@ const Teacher = require('./teacher');
 const Lesson = require('./lesson');
 
 const teacher = new Teacher('Maths', 'Billy');
+
 const student1 = new Student('Nilesh');
 const student2 = new Student('Nath');
 const student3 = new Student('Bilaal');
@@ -23,8 +24,8 @@ mathsLesson.markLate([student2]);
 
 mathsLesson.outputSummary();
 
-console.log(teacher);
-console.log(student1);
-console.log(student2);
-console.log(student3);
-console.log(student4);
+// console.log(teacher);
+// console.log(student1);
+// console.log(student2);
+// console.log(student3);
+// console.log(student4);
