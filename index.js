@@ -1,6 +1,6 @@
-const Student = require('./student');
-const Teacher = require('./teacher');
-const Lesson = require('./lesson');
+const Student = require('./classes/student');
+const Teacher = require('./classes/teacher');
+const Lesson = require('./classes/lesson');
 
 const teacher = new Teacher('Maths', 'Billy');
 
