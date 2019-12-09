@@ -9,8 +9,7 @@ class Student{
             this.late = false;
             this.onTime = false;
             this.absent = true;
-        };
-        
+        }; 
     };
 };
 
