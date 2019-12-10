@@ -37,5 +37,5 @@ mathsLesson.markLate();
 
 mathsLesson.outputSummary();
 
-**The application will display the lesson subject and teacher's name along with the attendance of the students. This can be call by running __node__ __index.js__.**
+**The application will display the lesson subject and teacher's name along with the attendance of the students. This can be call by running** __node__ __index.js__.
 ![screenshot](assets/Screenshot-6.png)
